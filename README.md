@@ -1,4 +1,4 @@
-# guia11
+# guia10
 Guia numero 10, Data WareHouse y Minería de Datos<br/>
 **Realizado por:**<br>
 _David Bonilla BA181927_<br>
